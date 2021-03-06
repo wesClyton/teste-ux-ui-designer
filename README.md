@@ -23,7 +23,6 @@ O intuito do teste será construir uma nova página para obtermos uma melhor exp
 
 ### Plus:
  - Style Guides;
- - Testes unitários;
  - Sugestões de Melhorias;
  - Pagina de apresentação da nova página do sistema.
 
